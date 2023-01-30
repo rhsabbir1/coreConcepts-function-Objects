@@ -31,7 +31,7 @@ console.log(allValues)
 
 // set value 
 
-shopingCart.Munput = 8;  // set value 
+shopingCart.Mumput = 8;  // set value 
 
 
 shopingCart['Mumput'] = 25;
